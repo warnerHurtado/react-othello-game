@@ -17,9 +17,3 @@ Este proyecto es desarrollado con la librería de Facebook React y consiste en l
 ```
   npm start -o
 ```
-
-## Integrantes:
-
-Jose Ignacio Alfaro Solano 
-Warner Hurtado Laguna
-
