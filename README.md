@@ -4,7 +4,7 @@ Diseño de Software - Tecnológico de Costa Rica - Ingeniería en Computación
 
 ## Descripción:
 
-Este proyecto es desarrollado con la librería de Facebook React y consiste en la creación de un juego llamado Othello. Esta librería es utilizada para hacer el pintado de los componente y los movimientos realizados por los jugadores, estos mismos se obtienen desde el servidor backend bajo la tecnología Node Js.
+Este proyecto es desarrollado con ReactJs y consiste en la creación de un juego llamado Othello. Este proyecto posee login con autenticacion con google y por medio de correo electrónico, puedes jugar con tus amigos siempre y cuando se registren también en el juego.
 
 ## Inicio del proyecto:
 
